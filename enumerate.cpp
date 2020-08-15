@@ -1,5 +1,6 @@
 /*Author:Ali Khatai June 2020
 Constructing Order 2 Carmichael numbers*/
+// function to enumerate all divisors of a value given its prime facotrs
 
 #include <algorithm>
 #include<iostream>
